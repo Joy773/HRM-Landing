@@ -1,0 +1,15 @@
+{
+  "signups": [
+    {
+      "id": "34332f92-7af1-40df-ae82-581dadc5dfb5",
+      "firstName": "Dibbojitdas",
+      "lastName": "Joy",
+      "email": "dibbojitdasjoy@gmail.com",
+      "password": "12345678",
+      "phone": "01749804081",
+      "countryCode": "US",
+      "countryDial": "+1",
+      "createdAt": "2026-02-18T10:24:08.494Z"
+    }
+  ]
+}
